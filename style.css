@@ -1,0 +1,106 @@
+
+.pertama{
+    background-color:#db6400 ;
+}
+.foto{
+    padding: 15px;
+}
+.foto p{
+    font-size: 15px;
+    font-family: poppins;
+    color: snow;
+    margin: 5px 30px 10px 90px;
+}
+.foto img{
+    width: 200px;
+    margin: 25px 30px 10px 50px;
+    border-radius: 50%;
+    position: relative;
+}
+
+.foto h6{
+    font-size: 18px;
+    text-align: center;
+    color:black;
+    font-family: poppins semibold;
+}
+
+.hello{
+    margin: 75px 10px ;
+}
+
+.hello h1{
+    font-family: poppins;
+    color: snow;
+}
+
+.hello p{
+    font-size: 25px;
+    color: snow;
+}
+.kedua{
+    background-color: #ffa62b;
+    padding: 45px 25px 75px 50px ;
+}
+
+.aboutme h1{
+    font-family: helvetica;
+    font-weight: bold;
+    font-size: 35px;
+    color: black;
+   
+}
+.aboutme p {
+    font-family: helvetica;
+    font-weight: bold;
+    font-size: 18px;
+    color: black;
+    margin-right:50px;
+    text-emphasis: justify;
+}
+
+
+.skill .progress{
+    margin:5px 50px 5px 0px;
+}
+
+.skill h1{
+    font-family: helvetica;
+    font-weight: bold;
+    font-size: 35px;
+    color: black;
+}
+
+.ketiga{
+    background-color: #f8f1f1;
+    padding: 45px 25px 75px 50px ;
+}
+.keempat{
+    background-color: #db6400;
+   color:  snow;
+    padding: 45px 25px 75px 50px ;
+}
+.keempat h1{
+    text-align: center;
+}
+.keempat .row .col{
+    margin: 15px;
+}
+
+.kelima{
+    background-color:  #ffa62b;
+    padding: 45px 25px 75px 50px ;
+    font-family: poppins;
+}
+.kelima .row .col{
+    padding: 30px;
+}
+.keenam{
+    background-color: #16697a;
+    color: snow;
+    padding: 20px 25px 10px 50px ;
+    font-family: poppins;
+}
+.keenam ol{
+    font size: 15px;
+}
